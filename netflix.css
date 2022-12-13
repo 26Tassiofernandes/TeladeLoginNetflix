@@ -1,0 +1,78 @@
+body {
+    color: white;
+    background-color: black;
+}
+
+section {
+    background-color: antiquewhite;
+    width: 400px;
+    background-color: #161616;
+    margin: auto;
+    padding: 10px;
+    margin-top: 80px;
+    border-radius: 4px;
+}
+
+img {
+    width: 200px;
+}
+
+input {
+    background-color: #2E2E2E;
+    border-style: hidden;
+    border-radius: 4px;
+    height: 30px;
+    width: 250px;
+    
+
+}
+
+#entrar {
+    background-color: #E50914;
+    color: white;
+    height: 40px;
+    
+    
+}
+
+#lembrar {
+    width: 17px;
+    margin-right: 112px;
+    
+}
+
+div {
+    text-align: center;
+}
+
+#ajuda {
+    color: #B3B3B3;
+    margin-left: 152px;
+    font-size: 14px;
+}
+
+#assine {
+    color: white;
+    text-decoration: none;
+}
+
+#alinhar {
+    color: #B3B3B3;
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#saibamais {
+    color: #0271DD;
+    
+}
+
+#icon {
+    width: 15px;
+    margin-left: -20px;
+    margin-right: 5px;
+}
+
+#entrar:hover, #senha:hover, #email:hover {
+    transform: scale(1.04);
+}
